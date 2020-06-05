@@ -1,6 +1,6 @@
 # Preview
 
-![img pdf make](/src/assets/example.png)
+![img pdf make](/src/assets/example.PNG)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
